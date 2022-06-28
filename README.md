@@ -57,7 +57,7 @@ The project is divided into several stages:
 
 0. [Build structured data variables](0-Structured-Data/README.md)
 1. [Build NLP data variables](1-NLP-Data/README.md)
-2. [Merge structured and NLP variables](2-Merging-Data/README.md)
+2. [Merge structured and NLP variables and prepare for model building](2-Merging-Data/README.md)
 3. [Build model from structured and unstructured variables](3-Building-Model/README.md)
 
 
