@@ -40,17 +40,17 @@
 The project is divided into several steps/stages:
 
 0. Structured Data Variables (SAS)
-  * Build variables from structured data
-  * [Instructions](0-Structured-Data/README.md)
+   * Build variables from structured data
+   * [Instructions](0-Structured-Data/README.md)
 1. NLP Variables (Python)
-  * Build variables from unstructured data (i.e., EHR text)
-  * [Instructions](1-NLP-Data/README.md)
+   * Build variables from unstructured data (i.e., EHR text)
+   * [Instructions](1-NLP-Data/README.md)
 2. Merging NLP/Structured Data (SAS)
-  * Merge data from 0 and 1, and then prepare/clean for building model
-  * [Instructions](2-Merging-Data/README.md)
+   * Merge data from 0 and 1, and then prepare/clean for building model
+   * [Instructions](2-Merging-Data/README.md)
 3. Building a Model (R)
-  * Building prediction algorithm
-  * [Instructions](3-Building-Model/README.md)
+   * Building prediction algorithm
+   * [Instructions](3-Building-Model/README.md)
 
 ### Prerequisites
 
